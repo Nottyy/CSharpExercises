@@ -1,0 +1,8 @@
+C:\Users\Antonio\source\repos\CSharpExercises\DP - FindMinNumberRecursion\bin\Debug\DP - FindMinNumberRecursion.exe.config
+C:\Users\Antonio\source\repos\CSharpExercises\DP - FindMinNumberRecursion\bin\Debug\DP - FindMinNumberRecursion.exe
+C:\Users\Antonio\source\repos\CSharpExercises\DP - FindMinNumberRecursion\bin\Debug\DP - FindMinNumberRecursion.pdb
+C:\Users\Antonio\source\repos\CSharpExercises\DP - FindMinNumberRecursion\obj\Debug\DP - FindMinNumberRecursion.csproj.AssemblyReference.cache
+C:\Users\Antonio\source\repos\CSharpExercises\DP - FindMinNumberRecursion\obj\Debug\DP - FindMinNumberRecursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Antonio\source\repos\CSharpExercises\DP - FindMinNumberRecursion\obj\Debug\DP - FindMinNumberRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\CSharpExercises\DP - FindMinNumberRecursion\obj\Debug\DP - FindMinNumberRecursion.exe
+C:\Users\Antonio\source\repos\CSharpExercises\DP - FindMinNumberRecursion\obj\Debug\DP - FindMinNumberRecursion.pdb
