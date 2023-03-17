@@ -1,0 +1,8 @@
+C:\Users\Antonio\source\repos\CSharpExercises\LongestSubSequenceDP\bin\Debug\LongestSubSequenceDP.exe.config
+C:\Users\Antonio\source\repos\CSharpExercises\LongestSubSequenceDP\bin\Debug\LongestSubSequenceDP.exe
+C:\Users\Antonio\source\repos\CSharpExercises\LongestSubSequenceDP\bin\Debug\LongestSubSequenceDP.pdb
+C:\Users\Antonio\source\repos\CSharpExercises\LongestSubSequenceDP\obj\Debug\LongestSubSequenceDP.csproj.AssemblyReference.cache
+C:\Users\Antonio\source\repos\CSharpExercises\LongestSubSequenceDP\obj\Debug\LongestSubSequenceDP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Antonio\source\repos\CSharpExercises\LongestSubSequenceDP\obj\Debug\LongestSubSequenceDP.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\CSharpExercises\LongestSubSequenceDP\obj\Debug\LongestSubSequenceDP.exe
+C:\Users\Antonio\source\repos\CSharpExercises\LongestSubSequenceDP\obj\Debug\LongestSubSequenceDP.pdb
