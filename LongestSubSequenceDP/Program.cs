@@ -10,8 +10,8 @@ namespace LongestSubSequenceDP
     {
         static void Main(string[] args)
         {
-            var s = new int[] { 5,7,3 };
-            var p = new int[] { 7, 3 };
+            var s = new int[] { 5, 7, 3 };
+            var p = new int[] { 7 };
             var result = DP(s, p);
             Console.WriteLine(result);
         }

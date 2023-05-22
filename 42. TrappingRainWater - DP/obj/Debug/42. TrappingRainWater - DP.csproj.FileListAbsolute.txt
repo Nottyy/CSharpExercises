@@ -1,0 +1,8 @@
+C:\Users\Antonio\source\repos\CSharpExercises\42. TrappingRainWater - DP\bin\Debug\_42.TrappingRainWater___DP.exe.config
+C:\Users\Antonio\source\repos\CSharpExercises\42. TrappingRainWater - DP\bin\Debug\_42.TrappingRainWater___DP.exe
+C:\Users\Antonio\source\repos\CSharpExercises\42. TrappingRainWater - DP\bin\Debug\_42.TrappingRainWater___DP.pdb
+C:\Users\Antonio\source\repos\CSharpExercises\42. TrappingRainWater - DP\obj\Debug\42. TrappingRainWater - DP.csproj.AssemblyReference.cache
+C:\Users\Antonio\source\repos\CSharpExercises\42. TrappingRainWater - DP\obj\Debug\42. TrappingRainWater - DP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Antonio\source\repos\CSharpExercises\42. TrappingRainWater - DP\obj\Debug\42. TrappingRainWater - DP.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\CSharpExercises\42. TrappingRainWater - DP\obj\Debug\_42.TrappingRainWater___DP.exe
+C:\Users\Antonio\source\repos\CSharpExercises\42. TrappingRainWater - DP\obj\Debug\_42.TrappingRainWater___DP.pdb

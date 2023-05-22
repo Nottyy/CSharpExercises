@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. TrappingRainWater - DP", "42. TrappingRainWater - DP.csproj", "{87A7593D-0AE9-4A34-B47F-45C8C0F89353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A7593D-0AE9-4A34-B47F-45C8C0F89353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A7593D-0AE9-4A34-B47F-45C8C0F89353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A7593D-0AE9-4A34-B47F-45C8C0F89353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A7593D-0AE9-4A34-B47F-45C8C0F89353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {461F192D-C0E6-45DB-8C1E-2A301C40D682}
+	EndGlobalSection
+EndGlobal

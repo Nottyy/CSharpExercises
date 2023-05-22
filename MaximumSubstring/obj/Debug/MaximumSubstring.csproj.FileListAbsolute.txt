@@ -1,0 +1,8 @@
+C:\Users\Antonio\Desktop\MaximumSubstring\bin\Debug\MaximumSubstring.exe.config
+C:\Users\Antonio\Desktop\MaximumSubstring\bin\Debug\MaximumSubstring.exe
+C:\Users\Antonio\Desktop\MaximumSubstring\bin\Debug\MaximumSubstring.pdb
+C:\Users\Antonio\Desktop\MaximumSubstring\obj\Debug\MaximumSubstring.csproj.AssemblyReference.cache
+C:\Users\Antonio\Desktop\MaximumSubstring\obj\Debug\MaximumSubstring.csproj.SuggestedBindingRedirects.cache
+C:\Users\Antonio\Desktop\MaximumSubstring\obj\Debug\MaximumSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\MaximumSubstring\obj\Debug\MaximumSubstring.exe
+C:\Users\Antonio\Desktop\MaximumSubstring\obj\Debug\MaximumSubstring.pdb
